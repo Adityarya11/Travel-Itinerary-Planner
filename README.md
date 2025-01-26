@@ -123,20 +123,6 @@ Here’s a polished and appealing `README.md` for your project:
 
 ---
 
-## 🌐 Deployment
-
-### Hosting on Streamlit Community Cloud
-1. Push your project to a GitHub repository.
-2. Go to [Streamlit Cloud](https://streamlit.io/cloud) and deploy your app.
-3. Set `streamlit_app.py` as the main file.
-4. Share the generated public link with your users.
-
-### Alternative Hosting Options
-- AWS / Google Cloud / Heroku for more scalability and control.
-- Self-host on a VPS (e.g., DigitalOcean).
-
----
-
 ## 💡 Future Enhancements
 - **Multilingual Support:** Generate itineraries in various languages.
 - **Offline Mode:** Enable edge-device capabilities using Retrieval-Augmented Generation (RAG).
@@ -149,13 +135,8 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 
 ---
 
-## 📄 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## 📞 Contact
-- **Author:** [Your Name](https://github.com/yourusername)
-- **Email:** your.email@example.com
+- **Author:** [Aditya Arya](https://github.com/Adityarya11)
+- **Email:** arya050411@gmail.com
 
 Happy traveling! ✈️
