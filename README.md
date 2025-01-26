@@ -47,10 +47,11 @@ Here’s a polished and appealing `README.md` for your project:
 ## 🖼️ Screenshots
 
 ### Main Page
-![Main Page](https://drive.google.com/file/d/1D8xa7qKnuJ417r1OaorgpnFiVpVVDneC/view?usp=drive_link)
+<img src="Images/Img1.png" width=100%>
 
 ### Generated Itinerary
-![Generated Itinerary](E:\APPLICATIONS\project\travel_itinerary_planner\Images\Img2.png)
+<img src="Images/Img2.png" width=100%>
+<img src="Images/Img3.png" width=100%>
 
 
 ---
