@@ -47,7 +47,7 @@ Here’s a polished and appealing `README.md` for your project:
 ## 🖼️ Screenshots
 
 ### Main Page
-![Main Page](https://via.placeholder.com/800x400?text=Main+Page+Screenshot)
+![Main Page](https://drive.google.com/file/d/1D8xa7qKnuJ417r1OaorgpnFiVpVVDneC/view?usp=drive_link)
 
 ### Generated Itinerary
 ![Generated Itinerary](E:\APPLICATIONS\project\travel_itinerary_planner\Images\Img2.png)
