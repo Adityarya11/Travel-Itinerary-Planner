@@ -1,0 +1,45 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+
+# Logs and Debug Files
+*.log
+*.tmp
+
+# OS-Specific Files
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+config.toml
+secrets.toml
+
+# Dependencies
+*.egg-info/
+pip-wheel-metadata/
+
+# Test Coverage
+htmlcov/
+coverage.xml
+.cache/
+
+# Static and Generated Files
+static/
+templates/__pycache__/
+
+# Generated Files from LLaMA or API
+data/output/
+data/temp/
+*.json
