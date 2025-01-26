@@ -50,7 +50,8 @@ Here’s a polished and appealing `README.md` for your project:
 ![Main Page](https://via.placeholder.com/800x400?text=Main+Page+Screenshot)
 
 ### Generated Itinerary
-![Generated Itinerary](https://via.placeholder.com/800x400?text=Generated+Itinerary+Screenshot)
+![Generated Itinerary]("/Images/Img2.png")
+!("/Images/Img1.png")
 
 ---
 
