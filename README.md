@@ -50,8 +50,8 @@ Here’s a polished and appealing `README.md` for your project:
 ![Main Page](https://via.placeholder.com/800x400?text=Main+Page+Screenshot)
 
 ### Generated Itinerary
-![Generated Itinerary]("/Images/Img2.png")
-!("/Images/Img1.png")
+![Generated Itinerary](E:\APPLICATIONS\project\travel_itinerary_planner\Images\Img2.png)
+
 
 ---
 
