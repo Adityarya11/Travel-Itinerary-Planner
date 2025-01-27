@@ -1,5 +1,4 @@
 streamlit==1.26.0
-sentence-transformers==2.2.2
 langchain==0.0.290
 ollama==0.4.7
 python-dotenv==1.0.0
