@@ -1,7 +1,3 @@
-Here’s a polished and appealing `README.md` for your project:
-
----
-
 # 🌍 AI Travel Itinerary Planner
 
 **AI Travel Itinerary Planner** is a powerful and interactive web application that generates highly personalized, day-by-day travel itineraries based on user inputs such as destination, duration, budget, and preferences. Built using **Streamlit**, this application leverages **LLaMA 3.1** (via **LangChain**) for creating custom itineraries, ensuring a seamless travel planning experience.
@@ -56,21 +52,20 @@ Here’s a polished and appealing `README.md` for your project:
 ## 🖥️ Local Development and Setup
 
 ### Prerequisites
-- Python 3.8 or later.
+- Python 3.12.6(used for project)
 - Install the required dependencies from `requirements.txt`.
 
 ### Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ai-travel-itinerary-planner.git
-   cd ai-travel-itinerary-planner
+   git clone https://github.com/Adityarya11/Travel-Itinerary-Planner.git
+   cd Travel-Itinerary-Planner
    ```
 
 2. Set up a virtual environment:
    ```bash
-   python -m venv venv
-   source venv/bin/activate    # On Windows: venv\Scripts\activate
+   source venv/bin/activate    
    ```
 
 3. Install dependencies:
