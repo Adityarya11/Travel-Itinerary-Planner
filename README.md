@@ -129,11 +129,6 @@ Here’s a polished and appealing `README.md` for your project:
 
 ---
 
-## 👨‍💻 Contributing
-Contributions are welcome! Feel free to fork the repository and submit a pull request.
-
----
-
 ## 📞 Contact
 - **Author:** [Aditya Arya](https://github.com/Adityarya11)
 - **Email:** arya050411@gmail.com
