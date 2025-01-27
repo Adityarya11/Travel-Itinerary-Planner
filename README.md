@@ -24,9 +24,6 @@ Here’s a polished and appealing `README.md` for your project:
 - User-friendly input fields for destination, duration, budget, and preferences.
 - Clear and structured display of travel plans.
 
-### ✅ **Debugging Information (Optional)**
-- Enable debug mode to view internal operations for development or testing.
-
 ---
 
 ## 🛠️ Technologies Used
